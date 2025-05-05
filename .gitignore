@@ -79,3 +79,12 @@ DerivedDataCache/*
 /Plugins/Developer
 /Plugins/Developer/RiderLink
 /Plugins/Developer/RiderLink/Binaries
+Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini
+Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderShaderInfo.pdb
+Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderLogging.pdb
+Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderLink.pdb
+Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderLC.pdb
+Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderGameControl.pdb
+Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderDebuggerSupport.pdb
+Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderBlueprint.pdb
+Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RD.pdb
